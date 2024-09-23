@@ -5,6 +5,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+.text1{
+    color: #e8e8e8;
+}
 
 body {
   background-color: #ffffff;
